@@ -15,7 +15,7 @@ function App() {
 
       <div className="card">
         <button>
-          <a href="#">الذهاب للموقع</a>
+          <a href="https://www.naqi-saudi.com/">الذهاب للموقع</a>
         </button>
         <p>حلي مويتك مع نقي</p>
       </div>
